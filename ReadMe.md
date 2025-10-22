@@ -1,4 +1,4 @@
-# 🩺 MediAI — Intelligent Health Diagnosis & Report Analysis App
+# 🩺 MediAI — Intelligent Health Diagnosis & Report Analysis App (status - in progress....)
 
 ## 📘 Problem Statement
 
