@@ -24,7 +24,7 @@ To create a mobile application that enables users to:
 ### 🧾 1. Document Upload & Analysis
 
 * Upload health documents (PDFs, images, or scanned reports).
-* Automatic text and **table extraction** using OCR and parsing models.
+* Automatic text and **table extraction** using pdfplumber.
 * Identify key metrics like glucose, hemoglobin, cholesterol, etc.
 * Generate **human-friendly explanations** of abnormal values.
 
