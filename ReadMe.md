@@ -83,6 +83,9 @@ To create a mobile application that enables users to:
 
 ---
 
+## 💡 Architecture
+![Architecture](./INFO/architecture.jpg)
+
 ## 🌍 Innovation Highlights
 
 | Challenge in Existing Systems    | How MediAI Solves It                                  |
